@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5,h6 {
+    color:rgb(156, 68, 181); text-align: center;font-size: 40px;background: scroll;background-color:#FDF4F5;border: 2px; font-family: 'Courier New', Courier, monospace;
+}
+p {
+    color:#E8A0BF; font-size: 20px; font-family: 'Courier New', Courier, monospace; text-align: center;
+}
+.merhaba{
+    color: aqua;
+}
